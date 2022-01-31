@@ -1,0 +1,5 @@
+C:\Users\Robinson.Orrego\Documents\c# pildoras informatica correcto\video18correcto\obj\Debug\net5.0\video18correcto.csproj.AssemblyReference.cache
+C:\Users\Robinson.Orrego\Documents\c# pildoras informatica correcto\video18correcto\obj\Debug\net5.0\video18correcto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robinson.Orrego\Documents\c# pildoras informatica correcto\video18correcto\obj\Debug\net5.0\video18correcto.AssemblyInfoInputs.cache
+C:\Users\Robinson.Orrego\Documents\c# pildoras informatica correcto\video18correcto\obj\Debug\net5.0\video18correcto.AssemblyInfo.cs
+C:\Users\Robinson.Orrego\Documents\c# pildoras informatica correcto\video18correcto\obj\Debug\net5.0\video18correcto.csproj.CoreCompileInputs.cache

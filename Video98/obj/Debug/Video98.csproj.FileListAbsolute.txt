@@ -1,0 +1,17 @@
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\bin\Debug\Video98.exe.config
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\bin\Debug\Video98.exe
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\bin\Debug\Video98.pdb
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.csproj.AssemblyReference.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\EditarCliente.g.cs
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\MainWindow.g.cs
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\App.g.cs
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98_MarkupCompile.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98_MarkupCompile.lref
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\EditarCliente.baml
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\MainWindow.baml
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.g.resources
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.Properties.Resources.resources
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.csproj.GenerateResource.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.csproj.CoreCompileInputs.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.exe
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video98\obj\Debug\Video98.pdb

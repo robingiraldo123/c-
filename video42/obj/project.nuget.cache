@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "AghRzd4BS8CGwOSkNQnInPUgtBQ9YymAXgGDqHv+ukq0bKTdKNO4T0aXT5UQ2LLf2sqXynJ4ff2Fd0uOkLTTow==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Robinson.Orrego\\Documents\\c# pildoras informatica correcto\\video42\\video42.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Robinson.Orrego\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

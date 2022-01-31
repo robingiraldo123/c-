@@ -1,0 +1,15 @@
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.csproj.AssemblyReference.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\MainWindow.g.cs
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\App.g.cs
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83_MarkupCompile.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83_MarkupCompile.lref
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\bin\Debug\Video83.exe.config
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\bin\Debug\Video83.exe
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\bin\Debug\Video83.pdb
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\MainWindow.baml
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.g.resources
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.Properties.Resources.resources
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.csproj.GenerateResource.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.csproj.CoreCompileInputs.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.exe
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video83\obj\Debug\Video83.pdb

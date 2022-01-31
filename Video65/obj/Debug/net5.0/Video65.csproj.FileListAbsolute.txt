@@ -1,0 +1,16 @@
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\Video65.exe
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\Video65.deps.json
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\Video65.runtimeconfig.json
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\Video65.runtimeconfig.dev.json
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\Video65.dll
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\ref\Video65.dll
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\bin\Debug\net5.0\Video65.pdb
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.GeneratedMSBuildEditorConfig.editorconfig
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.AssemblyInfoInputs.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.AssemblyInfo.cs
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.csproj.CoreCompileInputs.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.dll
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\ref\Video65.dll
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.pdb
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.genruntimeconfig.cache
+E:\Desktop\Curso_C#\PildorasInformaticasCsharp\Video65\obj\Debug\net5.0\Video65.csproj.AssemblyReference.cache
